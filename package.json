@@ -1,0 +1,18 @@
+{
+  "name": "vite-npm-pro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "fireworks-js": "^2.10.8"
+  }
+}
